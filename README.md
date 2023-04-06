@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moses S.W
 - 👀 I’m interested in Containerization,Automation,Artificial Intelligence,Robotics
 - 🌱 I’m currently learning Machine Learning,Python Development,FrontEnd Design
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on ML,AI,Pentesting,FullStack Development
 - 📫 How to reach me Twitter @Just_Sabz
 
 <!---
