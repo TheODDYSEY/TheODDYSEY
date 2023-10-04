@@ -1,26 +1,38 @@
+### A little about me...  
+<h1>Hello There 👋,Im Moses S.W ,a developer 🚀👨‍🚀 from Kenya  <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
-<p><h1👋 Welcome to my page! </br> I'm Moses S.W , Fullstack developer from 
- <b>Nairobi,Kenya</b>></h1> </p>
+I'm a  Student🎓 * majoring in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
  <img align="right" src="https://media.giphy.com/media/x9DVHBmO750Ji/giphy.gif" />
 
  <h2>⚡️ A Few Quick Facts</h2>
 <ul>
+ <li> I enjoy working on
+  - 📊 Machine Learning & Data Science
+  - 🖼 Computer Vision
+  - 🛠 Robotics
 <li>🧐 Learning about <strong>API development</strong>, <strong>AI/strong>,<strong>Python Development</strong> and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/TheODDYSEY">Github</a>.</li>
 <li>💬 Ping me about <strong>React,Nexjs, security,FullStack Development, and cloud stuff</strong>.</li> 
 <li>💞️ I’m looking to collaborate on ML,AI,Pentesting,FullStack Development</li>
-<li> 📫 How to reach me <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </li>
+<li> 📫 How to reach me 
+ 
+ [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/TheODDYSEY) 
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/moses-sabila-514492263/)</li>
+ 
 </ul>
 <h3>Things I code with</h3>
 <p>
+ <h3> 😎Operating Systems</h3>
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  
+  <h3>😁Favourite IDES</h3>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
   <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-  
+
+  <h3>🗣️Langauags and Frameworks</h3>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -37,11 +49,12 @@
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-
+<h3>☁️Cloud Storage</h3>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    
+  
+ <h3>🔨Tools</h3>   
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
