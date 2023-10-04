@@ -1,5 +1,5 @@
 
-<h1>Hello There 😎
+<h1>Hello There 😎</h1>
 
 I'm Moses ,a  Student 🎓 majoring in Computer Science. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
  <img align="right" src="https://media.giphy.com/media/x9DVHBmO750Ji/giphy.gif" />
