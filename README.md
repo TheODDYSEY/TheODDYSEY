@@ -7,9 +7,7 @@ I'm a  Student🎓 * majoring in Computer Science. I'm a **Tech Enthusiast 💻 
  <h2>⚡️ A Few Quick Facts</h2>
 <ul>
  <li> I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 Robotics
+   📊 Machine Learning & Data Science , 🖼 Computer Vision , 🛠 Robotics
 <li>🧐 Learning about <strong>API development</strong>, <strong>AI?</strong>,<strong>Python Development</strong> and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/TheODDYSEY">Github</a>.</li>
 <li>💬 Ping me about <strong>React,Nexjs, security,FullStack Development, and cloud stuff</strong>.</li> 
