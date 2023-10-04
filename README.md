@@ -1,7 +1,7 @@
 
 <h1>Hello There  <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
-I'm Moses s.w ,a  Student 🎓 majoring in Computer Science. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm Moses ,a  Student 🎓 majoring in Computer Science. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
  <img align="right" src="https://media.giphy.com/media/x9DVHBmO750Ji/giphy.gif" />
 
  <h2>⚡️ A Few Quick Facts</h2>
