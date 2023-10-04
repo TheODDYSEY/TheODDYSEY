@@ -12,7 +12,7 @@ I'm Moses ,a  Student 🎓 majoring in Computer Science. I'm a Tech Enthusiast �
 <li>🧐 Learning about <strong>API development</strong>, <strong>AI</strong>,<strong>Python Development</strong> and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/TheODDYSEY">Github</a>.</li>
 <li>💬 Ping me about <strong>React, Nextjs , Security,FullStack Development, and Cloud stuff</strong>.</li> 
-<li>💞️ I’m looking to collaborate on ML,AI,Pentesting,FullStack Development</li>
+<li>💞️ I’m looking to collaborate on <strong>ML,AI,Pentesting,FullStack Development</strong></li>
 <li> 📫 How to reach me 
  
  [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/TheODDYSEY)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/moses-sabila-514492263/)</li>
