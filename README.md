@@ -1,8 +1,8 @@
 ### A little about me...  
-<h1>Hello There 👋,Im Moses S.W ,a developer 🚀👨‍🚀 from Kenya  <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1>Hello There 👋,I'm Moses , a developer 🚀 from Kenya  <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 I'm a  Student🎓 * majoring in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
- <img align="right" src="https://media.giphy.com/media/x9DVHBmO750Ji/giphy.gif" />
+ <img align="right" src="https://media.giphy.com/media/l41JMXnXn4E7WQR8s/giphy.gif" />
 
  <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -10,7 +10,7 @@ I'm a  Student🎓 * majoring in Computer Science. I'm a **Tech Enthusiast 💻 
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
   - 🛠 Robotics
-<li>🧐 Learning about <strong>API development</strong>, <strong>AI/strong>,<strong>Python Development</strong> and a bit of <strong>ML</strong>.</li>
+<li>🧐 Learning about <strong>API development</strong>, <strong>AI?</strong>,<strong>Python Development</strong> and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/TheODDYSEY">Github</a>.</li>
 <li>💬 Ping me about <strong>React,Nexjs, security,FullStack Development, and cloud stuff</strong>.</li> 
 <li>💞️ I’m looking to collaborate on ML,AI,Pentesting,FullStack Development</li>
