@@ -1,7 +1,7 @@
 
 # 𒀂𒀼𒁇𒁇𒆸 𒉼𒆸𒇲𒁇𒁓
 
-<li>I'm Moses ,a  Student 🎓 majoring in Computer Science.</li>
+<li>I'm Moses , currently 🎓 majoring in Computer Science.</li>
 <li>I'm a Tech Enthusiast 💻 😃with bold ideas </li>
 <li>I love building interesting and amazing products that serve a great deal of purpose. </li>
 
