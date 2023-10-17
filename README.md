@@ -3,7 +3,7 @@
 
 <li>I'm Moses , currently 🎓 majoring in Computer Science.</li>
 <li>I'm a Tech Enthusiast 💻 with bold ideas </li>
-<li>I love building interesting and amazing products that serve a great deal of purpose. </li>
+<li>I love building interesting and amazing products that serve a great deal of purpose.👾 </li>
 
 
 <h2>⚡️ A Few Quick Facts</h2>
