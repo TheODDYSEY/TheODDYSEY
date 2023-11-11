@@ -1,19 +1,17 @@
 
 # 𒀂𒀼𒁇𒁇𒆸 𒉼𒆸𒇲𒁇𒁓
 
-<li>I'm Moses , currently 🎓 majoring in Computer Science.</li>
-<li>I'm a Tech Enthusiast 💻 with bold ideas </li>
-<li>I love building interesting and amazing products that serve a great deal of purpose.👾 </li>
+<li>𝙸'𝚖 𝙼𝚘𝚜𝚎𝚜 , 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 🎓 𝚖𝚊𝚓𝚘𝚛𝚒𝚗𝚐 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎.</li>
+<li>𝙸 𝚕𝚘𝚟𝚎 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚊𝚖𝚊𝚣𝚒𝚗𝚐 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚝𝚑𝚊𝚝 𝚜𝚎𝚛𝚟𝚎 𝚊 𝚐𝚛𝚎𝚊𝚝 𝚍𝚎𝚊𝚕 𝚘𝚏 𝚙𝚞𝚛𝚙𝚘𝚜𝚎.👾 </li>
 
-
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
- <li> I enjoy working on
-  Machine Learning , 🖼 Computer Vision , 🛠 Web Development
-<li>🧐 Learning about <strong>API development</strong>, <strong>AI</strong>,<strong>Python Development</strong> and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/TheODDYSEY">Github</a>.</li>
-<li>💬 Ping me about Security,FullStack Development, and Cloud stuff.</li> 
-<li> 📫 How to reach me 
+<𝚑𝟸>⚡️ 𝙰 𝙵𝚎𝚠 𝚀𝚞𝚒𝚌𝚔 𝙵𝚊𝚌𝚝𝚜</𝚑𝟸>
+<𝚞𝚕>
+ <𝚕𝚒> 𝙸 𝚎𝚗𝚓𝚘𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗
+  𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 , 🖼 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚅𝚒𝚜𝚒𝚘𝚗 , 🛠 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
+<𝚕𝚒>🧐 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝 <𝚜𝚝𝚛𝚘𝚗𝚐>𝙰𝙿𝙸 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</𝚜𝚝𝚛𝚘𝚗𝚐>, <𝚜𝚝𝚛𝚘𝚗𝚐>𝙰𝙸</𝚜𝚝𝚛𝚘𝚗𝚐>,<𝚜𝚝𝚛𝚘𝚗𝚐>𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</𝚜𝚝𝚛𝚘𝚗𝚐> 𝚊𝚗𝚍 𝚊 𝚋𝚒𝚝 𝚘𝚏 <𝚜𝚝𝚛𝚘𝚗𝚐>𝙼𝙻</𝚜𝚝𝚛𝚘𝚗𝚐>.</𝚕𝚒>
+<𝚕𝚒>👨‍💻 𝙼𝚘𝚜𝚝 𝚘𝚏 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚛𝚎 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚘𝚗 <𝚊 𝚑𝚛𝚎𝚏="𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚃𝚑𝚎𝙾𝙳𝙳𝚈𝚂𝙴𝚈">𝙶𝚒𝚝𝚑𝚞𝚋</𝚊>.</𝚕𝚒>
+<𝚕𝚒>💬 𝙿𝚒𝚗𝚐 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢,𝙵𝚞𝚕𝚕𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚊𝚗𝚍 𝙲𝚕𝚘𝚞𝚍 𝚜𝚝𝚞𝚏𝚏.</𝚕𝚒> 
+<𝚕𝚒> 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 
  
  [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/TheODDYSEY)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/moses-sabila-514492263/)</li>
  <img alt="BuyMeACoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
