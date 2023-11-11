@@ -43,7 +43,7 @@ me.additional_info()
  [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/TheODDYSEY)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/moses-sabila-514492263/)</li>
 
 <li>
- 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙸'𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜 𝚏𝚘𝚛 𝚏𝚘𝚕𝚕𝚘𝚠𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚐𝚒𝚟𝚎 𝚊 𝚜𝚝𝚊𝚛 ⭐:</li>
+Ongoing Projects⭐:</li>
  
 |       𝙿𝚛𝚘𝚓𝚎𝚌𝚝 :octocat:   |    𝙸𝚜𝚜𝚞𝚎𝚜 :bug:   | 𝙾𝚙𝚎𝚗 𝙿𝚁𝚜 :bell:  | 𝙲𝚕𝚘𝚜𝚎𝚍 𝙿𝚁𝚜  :fire:  |
 |-------------|-------------------|---|---|
@@ -53,7 +53,7 @@ me.additional_info()
  
 
 
-<h3>𝙼𝚢 𝚂𝚎𝚝𝚞𝚙 🔨⚙️</h3>
+<h3>Behind the scenes 🔨⚙️</h3>
 <p>
   <img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
