@@ -1,8 +1,6 @@
 
 # 𒀂𒀼𒁇𒁇𒆸 𒉼𒆸𒇲𒁇𒁓
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
 class BackendEngineer:
 
