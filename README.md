@@ -9,7 +9,7 @@ class BackendDeveloper:
         self.role = "𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 🎓 𝐦𝐚𝐣𝐨𝐫𝐢𝐧𝐠 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞."
         
     def say_hi(self):
-        print("🚀 𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚, 𝙢𝙖𝙨𝙩𝙚𝙧 𝙤𝙛 𝙩𝙝𝙚 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚! 🌌 Let's embark on a coding odyssey together. 👨‍💻✨")
+        print("🚀🌌 Let's embark on a coding odyssey together. 👨‍💻✨")
 
     def additional_info(self):
         print("\n🚀 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜:")
