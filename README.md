@@ -2,7 +2,7 @@
 # 𒀂𒀼𒁇𒁇𒆸 𒉼𒆸𒇲𒁇𒁓
 ```python
 
-class BackendEngineer:
+class BackendDeveloper:
 
     def __init__(self):
         self.name = "𝙸'𝚖 𝙼𝚘𝚜𝚎𝚜"
@@ -35,7 +35,7 @@ class BackendEngineer:
         print("👨‍💼 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐: Developing ML models for language processing")
         print("🔗 𝙱𝚕𝚘𝚐𝚐𝚒𝚗𝚐 & 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢: Contributing to open-source projects, participating in tech communities")
 
-me = BackendEngineer()
+me = BackendDeveloper()
 me.say_hi()
 me.additional_info()
 ```
