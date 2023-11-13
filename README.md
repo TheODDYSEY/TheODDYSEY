@@ -1,6 +1,6 @@
 ```
 def say_hi():
-    print("🚀 Hello there, master of the digital experience! 🌌 Let's embark on a coding odyssey together. 👨‍💻✨")
+    print("🚀 Hello 🌌 Let's embark on a coding odyssey  👨‍💻✨")
 ```
 <li>𝙸'𝚖 𝙼𝚘𝚜𝚎𝚜 , 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 🎓 𝚖𝚊𝚓𝚘𝚛𝚒𝚗𝚐 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎.</li>
 <li>𝙸 𝚕𝚘𝚟𝚎 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚊𝚖𝚊𝚣𝚒𝚗𝚐 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚝𝚑𝚊𝚝 𝚜𝚎𝚛𝚟𝚎 𝚊 𝚐𝚛𝚎𝚊𝚝 𝚍𝚎𝚊𝚕 𝚘𝚏 𝚙𝚞𝚛𝚙𝚘𝚜𝚎.👾 </li>
