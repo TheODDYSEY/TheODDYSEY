@@ -12,7 +12,7 @@ def say_hi():
 <li>🧐 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝 <strong>𝙰𝙿𝙸 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</strong>, <strong>𝙰𝙸</strong>,<strong>𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</strong> 𝚊𝚗𝚍 𝚊 𝚋𝚒𝚝 𝚘𝚏 <strong>𝙼𝙻</strong>.</li>
 <li>👨‍💻 𝙼𝚘𝚜𝚝 𝚘𝚏 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚛𝚎 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚘𝚗 <a 𝚑𝚛𝚎𝚏="𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚃𝚑𝚎𝙾𝙳𝙳𝚈𝚂𝙴𝚈">𝙶𝚒𝚝𝚑𝚞𝚋</a>.</li>
 <h3> 🚀 Let's Connect!</h3>
-,li>Feel free to reach out if you want to discuss Security, Full Stack Development, and Cloud stuff.</li> 
+<li>Feel free to reach out if you want to discuss Security, Full Stack Development, and Cloud stuff.</li> 
     
 <li> 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 
 
