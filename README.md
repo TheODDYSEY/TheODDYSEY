@@ -51,8 +51,9 @@ def say_hi():
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-
 </p>
+
+<p align="center">![](https://gitwar.herokuapp.com/badge?TheODDYSEYcolor=green)</p>
 
 <!---
 TheODDYSEY/TheODDYSEY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
