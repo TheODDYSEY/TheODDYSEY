@@ -53,7 +53,7 @@ def say_hi():
  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </p>
 
-![Visitor Badge](https://gitwar.herokuapp.com/badge?username=TheODDYSEY&color=green)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY)
 
 
 <!---
