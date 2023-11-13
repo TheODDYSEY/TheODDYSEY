@@ -54,7 +54,7 @@ def say_hi():
 </p>
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY)
+![](https://gitwar.herokuapp.com/badge?username=TheODDYSEY&style=flat-square)
 
 
 <!---
