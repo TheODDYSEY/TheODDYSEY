@@ -54,7 +54,7 @@ def say_hi():
 </p>
 
 
-<p>![Visitor Badge](https://gitwar.herokuapp.com/badge?username=TheODDYSEY&color=blueviolet)</p>
+![Visitor Badge](https://gitwar.herokuapp.com/badge?username=TheODDYSEY&color=blueviolet)
 
 
 <!---
