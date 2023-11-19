@@ -1,3 +1,4 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY)
 ```
 def say_hi():
     print("🚀 Hello 🌌 Let's embark on a coding odyssey  👨‍💻✨")
