@@ -18,6 +18,8 @@ def say_hi():
 
  [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/TheODDYSEY)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/moses-sabila-514492263/)</li>
 
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY)
+
 <h3>Ongoing Projects⭐:</h3>
  
 |       𝙿𝚛𝚘𝚓𝚎𝚌𝚝 :octocat:   |    𝙸𝚜𝚜𝚞𝚎𝚜 :bug:   | 𝙾𝚙𝚎𝚗 𝙿𝚁𝚜 :bell:  | 𝙲𝚕𝚘𝚜𝚎𝚍 𝙿𝚁𝚜  :fire:  |
@@ -53,7 +55,7 @@ def say_hi():
  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY)
+
 
 
 <!---
