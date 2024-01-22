@@ -22,6 +22,7 @@ def say_hi():
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY)
 
 <h3>Ongoing Projects⭐:</h3>
+
 |       𝙿𝚛𝚘𝚓𝚎𝚌𝚝 :octocat:   |    𝙸𝚜𝚜𝚞𝚎𝚜 :bug:   | 𝙾𝚙𝚎𝚗 𝙿𝚁𝚜 :bell:  | 𝙲𝚕𝚘𝚜𝚎𝚍 𝙿𝚁𝚜  :fire:  |
 |-------------|-------------------|---|---|
 | [** 𝙰𝙸 𝚂𝚞𝚖𝚖𝚊𝚛𝚒𝚣𝚎𝚛 𝚂𝚊𝚊𝚂 **](https://github.com/TheODDYSEY/AI-Summarizer-SaaS) | [![GitHub issues](https://img.shields.io/github/issues/TheODDYSEY/AI-Summarizer-SaaS?color=green&logo=github&style=flat)](https://github.com/TheODDYSEY/AI-Summarizer-SaaS/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/TheODDYSEY/AI-Summarizer-SaaS?style=flat&logo=github)](https://github.com/TheODDYSEY/AI-Summarizer-SaaS/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/TheODDYSEY/AI-Summarizer-SaaSr?style=flat&color=critical&logo=github)](https://github.com/TheODDYSEY/Image-Search-Engine/pulls?q=is%3Apr+is%3Aclosed)  |
