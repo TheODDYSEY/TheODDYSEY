@@ -14,10 +14,6 @@ Hello, I'm Moses, a seasoned backend developer with a passion for building robus
 - I'm currently delving deeper into API development, AI, Python development, and Machine Learning.
 - I believe in the power of community and collaboration, and most of my projects are open-source and available on [GitHub](https://github.com/TheODDSEY).
 
-## Connect with Me
-
-I'm always open to discussing software development, backend architecture, or any other interesting topics in the tech world. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
-
 ## Contributions
 
 I strongly believe in the power of contributions in the tech community. If you'd like to contribute to any of my projects, please feel free to open a pull request or issue on GitHub.
@@ -27,6 +23,7 @@ I strongly believe in the power of contributions in the tech community. If you'd
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY)
 
 <h3>Ongoing Projects⭐:</h3>
+<ul>
 |       𝙿𝚛𝚘𝚓𝚎𝚌𝚝 :octocat:   |    𝙸𝚜𝚜𝚞𝚎𝚜 :bug:   | 𝙾𝚙𝚎𝚗 𝙿𝚁𝚜 :bell:  | 𝙲𝚕𝚘𝚜𝚎𝚍 𝙿𝚁𝚜  :fire:  |
 |-------------|-------------------|---|---|
 | [** 𝙰𝙸 𝚂𝚞𝚖𝚖𝚊𝚛𝚒𝚣𝚎𝚛 𝚂𝚊𝚊𝚂 **](https://github.com/TheODDYSEY/AI-Summarizer-SaaS) | [![GitHub issues](https://img.shields.io/github/issues/TheODDYSEY/AI-Summarizer-SaaS?color=green&logo=github&style=flat)](https://github.com/TheODDYSEY/AI-Summarizer-SaaS/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/TheODDYSEY/AI-Summarizer-SaaS?style=flat&logo=github)](https://github.com/TheODDYSEY/AI-Summarizer-SaaS/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/TheODDYSEY/AI-Summarizer-SaaSr?style=flat&color=critical&logo=github)](https://github.com/TheODDYSEY/Image-Search-Engine/pulls?q=is%3Apr+is%3Aclosed)  |
