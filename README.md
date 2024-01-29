@@ -1,6 +1,6 @@
-# Given enough eyeballs, all bugs are shallow.
+#     Hello There 👀 
 
-Given enough eyeballs, all bugs are shallow.
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY)
 ![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
 
@@ -20,7 +20,7 @@ class SoftwareEngineer:
         self.language_spoken = ["en_US"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print('It's all talk until the code runs.")
 
 
 me = SoftwareEngineer()
