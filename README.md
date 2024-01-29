@@ -1,4 +1,4 @@
-# Hello there 👋
+# Given enough eyeballs, all bugs are shallow.
 
 Given enough eyeballs, all bugs are shallow.
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY)
