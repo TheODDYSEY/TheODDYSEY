@@ -1,5 +1,5 @@
-<h1 align="left" id="macropower-title">:wave: Fancy seeing you here! I'm Moses</h1>
-<h3 align="left">I do SE/Automation/ML/CyberOps/DevOps Engineering things</h3>
+<h1 align="left" id="macropower-title">:wave: Fancy seeing you here!</h1>
+<h3 align="left"> I'm Moses , I do SE/Automation/ML/CyberOps/DevOps Engineering things</h3>
 <p align="left">
   <a href="https://github.com/TheODDYSEY/TheODDYSEY">
     <img src="https://komarev.com/ghpvc/?username=TheODDYSEY" alt="page views" />
