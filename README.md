@@ -29,8 +29,8 @@
 
 
 - :speech_balloon: &nbsp;I like to talk about **CyberOps** and other **SE**,**DevOps**
-- :book: &nbsp;Learn more about my projects 
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :book: &nbsp;Learn more about my projects on Github
+
 
 
 ## ⚡ Technologies
