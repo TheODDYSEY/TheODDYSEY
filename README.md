@@ -20,7 +20,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/TheODDYSEY?style=flat&logo=github">
   </a>
   
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY)
+
 <!--   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a> -->
@@ -70,3 +70,4 @@
 
 </details>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY)
