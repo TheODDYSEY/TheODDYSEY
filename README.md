@@ -13,9 +13,6 @@
 <!--   <a href="https://stackoverflow.com/users/4868262">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
   </a> -->
-<!--   <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
-  </a> -->
   <a href="https://github.com/MacroPower?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/TheODDYSEY?style=flat&logo=github">
   </a>
