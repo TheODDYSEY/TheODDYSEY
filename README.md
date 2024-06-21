@@ -4,7 +4,7 @@
   <a href="https://github.com/TheODDYSEY/TheODDYSEY">
     <img src="https://komarev.com/ghpvc/?username=TheODDYSEY" alt="page views" />
   </a>
-    <a href="https://jacobcolvin.com">
+    <a href="https://moses-sabila.vercel.app/">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
   </a>
 
