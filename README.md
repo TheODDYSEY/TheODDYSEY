@@ -16,9 +16,6 @@
   </a>
   
 
-<!--   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a> -->
 </p>
 
 
@@ -80,43 +77,5 @@
 
 </details>
 
-<details>
-  <summary>🛠️ Projects</summary>
-  <h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>✨ Link </b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/TheODDYSEY/Ecommerce-Price-Tracker"><b>Ecommerce-Price-Tracker</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/TheODDYSEY/Ecommerce-Price-Tracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/TheODDYSEY/Ecommerce-Price-Tracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/TheODDYSEY/Ecommerce-Price-Tracker?style=flat-square&labelColor=343b41"/></td>
-       <td><a href="https://shop-sense-nine.vercel.app/">Link 🔗</a></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/TheODDYSEY/Interactive-Particles-Music-Visualizer"><b>Interactive-Particles-Music-Visualizer</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/TheODDYSEY/Interactive-Particles-Music-Visualizer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/TheODDYSEY/Interactive-Particles-Music-Visualizer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/TheODDYSEY/Interactive-Particles-Music-Visualizer?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://interactive-particles-music-visualizer.vercel.app/">Link 🔗</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TheODDYSEY/AI-Summarizer-SaaS"><b>AI-Summarizer-SaaS</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/TheODDYSEY/AI-Summarizer-SaaS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/TheODDYSEY/AI-Summarizer-SaaS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/TheODDYSEY/AI-Summarizer-SaaS?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://openai-article-shortener.netlify.app/">Link 🔗</a></td>
-    </tr>
-  </tbody>
-</table>
-</details>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY)
