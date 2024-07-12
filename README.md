@@ -8,13 +8,9 @@
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
   </a>
 
-
-
-
   <a href="https://github.com/MacroPower?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/TheODDYSEY?style=flat&logo=github">
   </a>
-  
 
 </p>
 
