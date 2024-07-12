@@ -14,12 +14,8 @@
 
 </p>
 
-
-
 - :speech_balloon: &nbsp;I like to talk about **DevOps** and **SE**,**MLOps**
 - :book: &nbsp;Learn more about my projects on Github
-
-
 
 > Tools, languages, and other things that I like to work with.
 
