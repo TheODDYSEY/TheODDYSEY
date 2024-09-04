@@ -1,4 +1,4 @@
-<h1 align='center'>👋 Hello!</h1>
+<h1 align='center'>🚀 TheODDYSEY</h1>
 <p align='center'>
 <a href="https://wakatime.com/@73032397-dc32-4141-8070-8057d7fa46cb"><img src="https://wakatime.com/badge/user/73032397-dc32-4141-8070-8057d7fa46cb.svg"/></a>
 <a href="https://github.com/TheODDYSEY?tab=repositories"><img src="https://img.shields.io/github/stars/TheODDYSEY?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
@@ -9,12 +9,13 @@ Glad to see you here! I’m **Moses Sabila**, a **Software Engineer** passionate
 
 Currently, I’m focused on backend solutions and dynamic web experiences. Let’s connect and create something great!
 
-
-[![Github Badge](https://img.shields.io/badge/-@TheODDYSEY-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/TheODDYSEY)](https://github.com/TheODDYSEY) [![NPM - TheODDYSEY](https://img.shields.io/badge/npm-nodejs987-231F20?logo=npm)](https://www.npmjs.com/~nodejs987)
+[![Github Badge](https://img.shields.io/badge/-@TheODDYSEY-181717?style=flat&logo=Github&logoColor=white&link=https://github.com/TheODDYSEY)](https://github.com/TheODDYSEY)
+[![NPM - TheODDYSEY](https://img.shields.io/badge/npm-nodejs987-FF0000?logo=npm)](https://www.npmjs.com/~nodejs987)
 
 ### Tech Stack
 
 I specialize in **JavaScript** and **Node.js** for backend development, with **Azure** for cloud solutions and **Airflow** for orchestration. I'm exploring **GoLang** and work with **Python**, **Dart**, and **TypeScript**. For frontend, I use **Next** and manage databases with **PostgreSQL**. **Docker** handles containerization, and **Bash** is used for scripting.
+
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
