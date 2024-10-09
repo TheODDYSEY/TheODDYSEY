@@ -11,8 +11,6 @@
 
 Glad to see you here! I’m **Moses Sabila**, a **Software Engineer** passionate about **DevOps**, **Backend Development**, **Reverse Engineering**, and **Data Science**. I enjoy creating scalable solutions and exploring new technologies. Outside of coding, I design in **Blender** and contribute to **open-source projects**.
 
-Currently, I’m focused on backend solutions and dynamic web experiences. Let’s connect and create something great!
-
 [![Github Badge](https://img.shields.io/badge/-@TheODDYSEY-181717?style=flat&logo=Github&logoColor=white&link=https://github.com/TheODDYSEY)](https://github.com/TheODDYSEY)
 [![NPM - TheODDYSEY](https://img.shields.io/badge/npm-nodejs987-FF0000?logo=npm)](https://www.npmjs.com/~nodejs987)
 
