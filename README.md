@@ -15,8 +15,6 @@ Glad to see you here! I’m **Moses Sabila**, a **Software Engineer** passionate
 [![NPM - TheODDYSEY](https://img.shields.io/badge/npm-nodejs987-FF0000?logo=npm)](https://www.npmjs.com/~nodejs987)
 
 ### Tech Stack
-I specialize in **JavaScript** and **Node.js** for backend development, with **Azure** for cloud solutions and **Airflow** for orchestration. I'm exploring **GoLang** and work with **Python**, **Dart**, and **TypeScript**. For frontend, I use **Next** and manage databases with **PostgreSQL**. **Docker** handles containerization, and **Bash** is used for scripting.
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
