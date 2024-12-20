@@ -30,7 +30,7 @@ Glad to see you here! I’m **Moses Sabila**, a **Software Engineer** passionate
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 
 ### Let's Connect!
-Explore my work on my [Portfolio](https://moses-sabila.vercel.app/) and connect with me on [LinkedIn](https://www.linkedin.com/in/moses-sabila-514492263/).
+Explore my work on my [Portfolio](https://sabila.vercel.app/) and connect with me on [LinkedIn](https://www.linkedin.com/in/moses-sabila-514492263/).
 
 
 <details>
