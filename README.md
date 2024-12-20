@@ -4,7 +4,7 @@
 <a href="https://github.com/TheODDYSEY?tab=repositories"><img src="https://img.shields.io/github/stars/TheODDYSEY?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 <a href="https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY"><img src="https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY" alt="Visitor Badge" style="margin-left: 10px;"/></a>
   </a>
-    <a href="https://moses-sabila.vercel.app/">
+    <a href="https://sabila.vercel.app/">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
   </a>
 </p>
