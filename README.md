@@ -16,16 +16,22 @@ Glad to see you here! I’m **Moses Sabila**, a **Software Engineer** passionate
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=Moses-Sabila&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/moses-sabila-514492263/) 
 
 ### Tech Stack
-I specialize in **JavaScript** and **Node.js** for backend development, with **Azure** for cloud solutions and **Airflow** for orchestration. I'm exploring **GoLang** and work with **Python**, **Dart**, and **TypeScript**. For frontend, I use **Next** and manage databases with **PostgreSQL**. **Docker** handles containerization, and **Bash** is used for scripting.
+I specialize in **JavaScript** and **Node.js** for backend development, with **Azure** for cloud solutions and **Airflow** for orchestration. I'm exploring **GoLang** and work with **Python**, **Dart**, and **TypeScript**. For frontend, I use **Next.js** and **React**. I manage databases with **PostgreSQL** and **MongoDB**, and use **Redis** for caching. **Docker** handles containerization, and **Bash** is used for scripting. I also work with **Google Cloud**.
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![GoLang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Airflow](https://img.shields.io/badge/-Airflow-0179C5?logo=apache-airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
