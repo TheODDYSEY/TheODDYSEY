@@ -13,7 +13,7 @@ Glad to see you here! I’m **Moses Sabila**, a **Software Engineer** passionate
 
 [![Github Badge](https://img.shields.io/badge/-@TheODDYSEY-181717?style=flat&logo=Github&logoColor=white&link=https://github.com/TheODDYSEY)](https://github.com/TheODDYSEY)
 [![NPM - TheODDYSEY](https://img.shields.io/badge/npm-nodejs987-FF0000?logo=npm)](https://www.npmjs.com/~nodejs987)
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=Moses-Sabila&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/moses-sabila-514492263/) [![GitHub followers](https://img.shields.io/github/followers/TheODDYSEY.svg?label=Follow%20@TheODDYSEY&style=social)](https://github.com/TheODDYSEY/)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=Moses-Sabila&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/moses-sabila-514492263/) 
 
 ### Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
