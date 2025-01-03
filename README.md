@@ -15,7 +15,6 @@ Glad to see you here! I’m **Moses Sabila**, a **Software Engineer** passionate
 [![NPM - TheODDYSEY](https://img.shields.io/badge/npm-nodejs987-FF0000?logo=npm)](https://www.npmjs.com/~nodejs987)
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=Moses-Sabila&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/moses-sabila-514492263/) [![GitHub followers](https://img.shields.io/github/followers/TheODDYSEY.svg?label=Follow%20@TheODDYSEY&style=social)](https://github.com/TheODDYSEY/)
 
-
 ### Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
@@ -32,7 +31,6 @@ Glad to see you here! I’m **Moses Sabila**, a **Software Engineer** passionate
 ### Let's Connect!
 Explore my work on my [Portfolio](https://sabila.vercel.app/) and connect with me on [LinkedIn](https://www.linkedin.com/in/moses-sabila-514492263/).
 
-
 <details>
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=TheODDYSEY&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -42,5 +40,4 @@ Explore my work on my [Portfolio](https://sabila.vercel.app/) and connect with m
   <br>
 </p>
 </details>
-
 <br />
