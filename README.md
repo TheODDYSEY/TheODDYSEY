@@ -1,19 +1,31 @@
 <h1 align='center'>🚀 TheODDYSEY</h1>
 <p align='center'>
-<a href="https://wakatime.com/@73032397-dc32-4141-8070-8057d7fa46cb"><img src="https://wakatime.com/badge/user/73032397-dc32-4141-8070-8057d7fa46cb.svg"/></a>
-<a href="https://github.com/TheODDYSEY?tab=repositories"><img src="https://img.shields.io/github/stars/TheODDYSEY?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
-<a href="https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY"><img src="https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY" alt="Visitor Badge" style="margin-left: 10px;"/></a>
+  <a href="https://wakatime.com/@73032397-dc32-4141-8070-8057d7fa46cb">
+    <img src="https://wakatime.com/badge/user/73032397-dc32-4141-8070-8057d7fa46cb.svg"/>
   </a>
-    <a href="https://sabila.vercel.app/">
+  <a href="https://github.com/TheODDYSEY?tab=repositories">
+    <img src="https://img.shields.io/github/stars/TheODDYSEY?style=flat&logo=github&label=Total%20Stars&color=teal"/>
+  </a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=TheODDYSEY.TheODDYSEY" alt="Visitor Badge" style="margin-left: 10px;"/>
+  </a>
+  <a href="https://sabila.vercel.app/">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
+  </a>
+  <br/>
+  <a href="https://github.com/TheODDYSEY">
+    <img src="https://img.shields.io/badge/-@TheODDYSEY-181717?style=flat&logo=Github&logoColor=white"/>
+  </a>
+  <a href="https://www.npmjs.com/~nodejs987">
+    <img src="https://img.shields.io/badge/npm-nodejs987-FF0000?logo=npm"/>
+  </a>
+  <a href="https://www.linkedin.com/in/moses-sabila-514492263/">
+    <img src="https://img.shields.io/static/v1.svg?label=LinkedIn&message=Moses-Sabila&logo=linkedin&style=flat&color=blue"/>
   </a>
 </p>
 
 Glad to see you here! I’m **Moses Sabila**, a **Software Engineer** passionate about **DevOps**, **Backend Development**, **Reverse Engineering**, and **Data Science**. I enjoy creating scalable solutions and exploring new technologies. Outside of coding, I design in **Blender** and contribute to **open-source projects**.
 
-[![Github Badge](https://img.shields.io/badge/-@TheODDYSEY-181717?style=flat&logo=Github&logoColor=white&link=https://github.com/TheODDYSEY)](https://github.com/TheODDYSEY)
-[![NPM - TheODDYSEY](https://img.shields.io/badge/npm-nodejs987-FF0000?logo=npm)](https://www.npmjs.com/~nodejs987)
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=Moses-Sabila&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/moses-sabila-514492263/) 
 
 ### Tech Stack
 I specialize in **JavaScript** and **Node.js** for backend development, with **Azure** for cloud solutions and **Airflow** for orchestration. I'm exploring **GoLang** and work with **Python**, **Dart**, and **TypeScript**. For frontend, I use **Next.js** and **React**. I manage databases with **PostgreSQL** and **MongoDB**, and use **Redis** for caching. **Docker** handles containerization, and **Bash** is used for scripting. I also work with **Google Cloud**.
