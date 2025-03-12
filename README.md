@@ -31,7 +31,24 @@ Glad to see you here! I’m **Moses Sabila**, a **Software Engineer** passionate
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  ![GoLang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white)![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  ![Airflow](https://img.shields.io/badge/Apache%20Airflow-0179C5?logo=apache-airflow&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) 
 
 ### Let's Connect!
-Explore my work on my [Portfolio](https://sabila.vercel.app/) and connect with me on [LinkedIn](https://www.linkedin.com/in/moses-sabila-514492263/).
+
+Explore my work and connect with me:
+
+<table>
+  <tr>
+    <td>
+      <a href="https://sabila.vercel.app/">
+        <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/moses-sabila-514492263/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <details>
 <p align="center">
